@@ -1,0 +1,3 @@
+$ echo blue > cool-colors.txt
+$ echo green >> cool-colors.txt
+$ echo purple >> cool-colors.txt
