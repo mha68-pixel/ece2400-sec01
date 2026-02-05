@@ -1,0 +1,3 @@
+$ echo red > warm-colors.txt
+$ echo orange >> warm-colors.txt
+$ echo yellow >> warm-colors.txt
